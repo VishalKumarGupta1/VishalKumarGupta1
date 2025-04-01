@@ -16,7 +16,7 @@
 <p align="left">
   <a href="mailto:vishalgupta.dev1@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="left"/></a>  
   <a href="https://www.linkedin.com/in/vishal-kumar-gupta1/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>  
-  <a href="https://discord.com/users/vishalkumarhupta1" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" align="left"/></a>
+  <a href="https://discord.com/users/vishalkumargupta1" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" align="left"/></a>
 
 </p>
 <br/>
@@ -45,15 +45,5 @@
     A fully functional e-commerce site with **React**, **Redux**, and **Stripe API** for payment processing.
 </p>
 
-<h3 align="left">Reach Me:</h3>
-<p align="left">
-  📧 **Email**: [vishal@example.com](mailto:vishal@example.com)  
-  🔗 **LinkedIn**: [Vishal Kumar Gupta LinkedIn](https://www.linkedin.com/in/vishal-kumar-gupta1/)  
-  🌐 **Portfolio**: [Vishal Kumar Gupta Portfolio](https://vishal-kumar-gupta1.netlify.app/)
-</p>
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VishalKumarGupta1&show_icons=true&locale=en&layout=compact&theme=radical" alt="VishalKumarGupta1" />
-</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=VishalKumarGupta1&show_icons=true&theme=radical&hide=issues&count_private=true" alt="VishalKumarGupta1" /></p>
