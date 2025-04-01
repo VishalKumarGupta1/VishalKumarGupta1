@@ -5,6 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=VishalKumarGupta1&label=Profile%20views&color=0e75b6&style=flat" alt="VishalKumarGupta1" /> 
 </p>
 
+## About Me
+I'm a passionate and self-taught **Frontend Developer** from India, constantly learning and exploring new technologies. I enjoy working on **web development** projects and aim to create user-friendly and interactive web experiences. My goal is to contribute to open-source projects and collaborate with other developers to learn and grow in the field.
+
+
+
 - 🧠 Self-taught **Frontend Developer**  
 - 👨‍💻 Passionate about building modern web applications  
 - 🌱 Currently learning **Backend**  
@@ -45,5 +50,7 @@
     A fully functional e-commerce site with **React**, **Redux**, and **Stripe API** for payment processing.
 </p>
 
+## GitHub Stats
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalKumarGupta1&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 
