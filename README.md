@@ -36,20 +36,6 @@ I'm a passionate and self-taught **Frontend Developer** from India, constantly l
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
 </p>
 
-<h3 align="left">Top Projects:</h3>
-<p align="left">
- 
-
-  - [**Weather App**](https://github.com/VishalKumarGupta1/weather-app)  
-    A web app that allows users to check the weather forecast by city. Built with **React** and **OpenWeather API**.
-
-  - [**Task Manager App**](https://github.com/VishalKumarGupta1/task-manager)  
-    A task management app built with **React** and **Node.js**, allowing users to add, edit, and delete tasks.
-
-  - [**E-commerce Website**](https://github.com/VishalKumarGupta1/e-commerce-site)  
-    A fully functional e-commerce site with **React**, **Redux**, and **Stripe API** for payment processing.
-</p>
-
 ## GitHub Stats
 ![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalKumarGupta1&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
