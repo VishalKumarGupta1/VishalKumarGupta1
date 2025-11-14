@@ -26,17 +26,61 @@ I'm a passionate and self-taught **Frontend Developer** from India, constantly l
 </p>
 <br/>
 <h3 align="left">Tech Stack:</h3>
-<p align="left"> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />  
+<p align="left">
+
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=white" alt="React" />  
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="React Router" />  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Core%20Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Core Java" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Framer--Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+
+  <!-- Backend / MERN -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=rest&logoColor=white" alt="REST API" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Firebase-ffaa00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM" />
+  
+
+  <!-- Concepts -->
+  <img src="https://img.shields.io/badge/Responsive%20Design-FF4088?style=flat-square&logo=responsive&logoColor=white" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/Component%20Architecture-8E44AD?style=flat-square&logoColor=white" alt="Component Architecture" />
+  <img src="https://img.shields.io/badge/State%20Management-2ECC71?style=flat-square&logoColor=white" alt="State Management" />
+  <img src="https://img.shields.io/badge/Version%20Control-34495E?style=flat-square&logoColor=white" alt="Version Control" />
+
 </p>
 
-## GitHub Stats
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalKumarGupta1&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
+## GitHub Stats
+
+
+<p align="center" gap="20px">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalKumarGupta1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=VishalKumarGupta1&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VishalKumarGupta1&theme=radical&margin-w=10&no-bg=true&no-frame=true" />
+</p>
 
