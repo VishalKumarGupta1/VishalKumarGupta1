@@ -1,27 +1,56 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar Gupta</h1>
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Aspiring+MERN+Stack+Developer;Frontend+%7C+Backend+Learner;Passionate+About+Web+Development;Code.+Build.+Grow.;JavaScript+%7C+React+%7C+Node.js+Enthusiast;Always+Learning+New+Technologies" />
+  <strong>MERN Stack Developer | Full Stack JavaScript Developer</strong><br/>
+  React.js • Node.js • Express.js • MongoDB
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+Full+Stack+Web+Applications;React+%7C+Node+%7C+Express+%7C+MongoDB;REST+APIs+%7C+JWT+Authentication;Always+Learning+%26+Improving" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VishalKumarGupta1&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 
+## Professional Overview
 
+MERN Stack Developer focused on building **secure**, **scalable**, and **user-centric web applications** using **React.js**, **Node.js**, **Express.js**, and **MongoDB**. Experienced in **REST API integration**, **JWT authentication**, **Redux state management**, and **role-based access control**. Strong emphasis on clean code, reusable components, and real-world problem solving.
 
+---
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=VishalKumarGupta1&label=Profile%20views&color=0e75b6&style=flat" alt="VishalKumarGupta1" /> 
-</p>
+## Core Expertise
 
-## About Me
-I'm a passionate and self-taught **Frontend Developer** from India, constantly learning and exploring new technologies. I enjoy working on **web development** projects and aim to create user-friendly and interactive web experiences. My goal is to contribute to open-source projects and collaborate with other developers to learn and grow in the field.
+- **Full Stack Development (MERN Stack)**
+- **REST APIs & Backend Integration**
+- **JWT Authentication & Protected Routes**
+- **Redux / Context API State Management**
+- **Responsive UI Development**
+- **Role-Based Access Control**
+- **Reusable Component Architecture**
+- **Debugging & Performance Optimization**
+- **Git & GitHub Collaboration**
 
+---
 
+## Featured Projects
 
-- 🧠 Self-taught **Frontend Developer**  
-- 👨‍💻 Passionate about building modern web applications  
-- 🌱 Currently learning **Backend**  
-- 👯 I’m looking to collaborate on **web development projects**  
-- 💬 Ask me about **HTML**, **CSS**, **JavaScript**, **React**, and **Redux**  
-- 💼 Check out my projects at [GitHub Repositories](https://github.com/VishalKumarGupta1?tab=repositories)
+### 🛒 YoursMart – E-Commerce Platform
+- Built secure authentication with **JWT**, **OTP verification**, and password reset
+- Implemented product search, filters, checkout, **PayPal integration**, and order tracking
+- Developed admin dashboard with **CRUD operations**, role management, and reporting
+- Deployed backend on **Render** with media handling via **Cloudinary**
+
+### 🔗 Trimly – URL Shortener & Analytics
+- Developed authentication-based URL shortener using **MERN Stack**
+- Implemented analytics tracking for clicks, device, IP, and timestamps
+- Built responsive dashboard for URL management and performance insights
+
+👉 **Explore all projects:** [GitHub Repositories](https://github.com/VishalKumarGupta1?tab=repositories)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,7 +67,7 @@ I'm a passionate and self-taught **Frontend Developer** from India, constantly l
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Core%20Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Core Java" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
+  
 
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -49,6 +78,7 @@ I'm a passionate and self-taught **Frontend Developer** from India, constantly l
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
   <img src="https://img.shields.io/badge/Framer--Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
 
   <!-- Backend / MERN -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
@@ -56,6 +86,8 @@ I'm a passionate and self-taught **Frontend Developer** from India, constantly l
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=rest&logoColor=white" alt="REST API" />
+    <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -78,7 +110,6 @@ I'm a passionate and self-taught **Frontend Developer** from India, constantly l
 
 ## GitHub Stats
 
-
 <p align="center" gap="20px">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=VishalKumarGupta1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
@@ -89,4 +120,5 @@ I'm a passionate and self-taught **Frontend Developer** from India, constantly l
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VishalKumarGupta1&theme=radical&margin-w=10&no-bg=true&no-frame=true" />
 </p>
+
 
